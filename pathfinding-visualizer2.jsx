@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import Node from './Node/Node';
+import Node from './Node';
 import {dijkstra, getNodesInShortestPathOrder} from './dijkstra-algorithm.js';
 
 import './pathfinding-visualizer2.css';
